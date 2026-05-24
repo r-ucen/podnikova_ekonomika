@@ -142,7 +142,7 @@ Majetek se odpisuje každý rok stejnou částkou po celou dobu jeho životnosti
 - Degresivní (zrychlené) odpisy:
 V prvních letech životnosti majetku jsou odpisy nejvyšší a postupně se každým rokem snižují.
 
-20. Objasněte zlaté bilanční pravidlo financování
+# 20. Objasněte zlaté bilanční pravidlo financování
 - Dlouhodobý majetek (např. budovy, stroje, pozemky) musí být financován dlouhodobými zdroji
 - Krátkodobý krátkodobými
 
